@@ -15,5 +15,4 @@ A dark, lightweight personal website for Abhay Kumar.
 4. Add Notes posts when you are ready.
 5. Add your Skills section later.
 
-## Publish with GitHub Pages
-Create a repository (for example `personal-website`), upload these files to the repository root, then enable GitHub Pages from the repository's Pages settings.
+
