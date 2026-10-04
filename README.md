@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abhay K. — Personal Website
 
-<!--
-**abhayk-dev/Abhayk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dark, lightweight personal website for Abhay Kumar.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — page structure and content
+- `style.css` — visual design and responsive layout
+- `script.js` — lightweight navigation and scroll interactions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Customize later
+1. Replace the `AK` avatar in `index.html` with your actual profile image if desired.
+2. Add your Instagram URL in `script.js`:
+   `const INSTAGRAM_URL = 'https://instagram.com/yourusername';`
+3. Add completed projects to the Projects section.
+4. Add Notes posts when you are ready.
+5. Add your Skills section later.
+
+## Publish with GitHub Pages
+Create a repository (for example `personal-website`), upload these files to the repository root, then enable GitHub Pages from the repository's Pages settings.
